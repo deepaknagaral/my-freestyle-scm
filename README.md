@@ -1,3 +1,4 @@
-"Hi all!"
-"Welcom to jenkins"
-"Demo commits to demonstrate pollScm"
+"Hi all!" \n
+"Welcom to jenkins" \n
+"Demo commits to demonstrate pollScm" \n
+"Checking webhook"
